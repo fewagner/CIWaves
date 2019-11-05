@@ -1,0 +1,16 @@
+# ---------------------------------------------------
+# PROJECT WORK: CI POTENTIAL PREDICTION
+# ---------------------------------------------------
+
+All training data and saved models are on the GPU machine in the folder '~/ml_data/' and '~/ml_models' respectively.
+
+
+'main' is the current main file for all models
+
+'main_diverse' is an experimental file for more diverse training data
+
+'main_numerical' is an experimental file for numerical solution approaches
+
+'Gauss...' is a file to plot a gauss-W and look how differnt k values change nr and ni
+
+CI_FNN and CI_UNet are the old main files for the two networks
